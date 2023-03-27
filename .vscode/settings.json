@@ -1,0 +1,14 @@
+{
+	"eslint.format.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"explorer.fileNesting.enabled": false,
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"eslint.format.enable": true,
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+}
